@@ -12,14 +12,15 @@ body {
 }
 
 .main {
-  width: 80%;
+  width: 100%;
+  max-width: 1200px;
   margin: auto;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
 }
 
-#photo {
+img {
   margin: 30px;
 }
 
